@@ -133,7 +133,10 @@ stargazer(log_wage_model, type = "latex", out = "output/Chapter2_Example2_Regres
 
 ## Credits
 
-- The original R code examples were provided by Justin M Shea.
+- The original R code examples were provided by Justin M Shea and Florian Heiss
+- Credit: Code from Florian Heiss, Professor for Statistics and Econometrics at the Heinrich Heine University of Düsseldorf
+- Link: "http://urfie.net/code.html"
+
 - This project was compiled and documented by Martin Conyon.
 
 Feel free to contribute by submitting pull requests or opening issues for any improvements or errors you find. Enjoy learning econometrics with R!
